@@ -1,0 +1,21 @@
+header {
+	margin: 20px;
+}
+
+h1{
+font-size: 72px;
+font-weight:bold;
+color:#CC0000;
+}
+.block {
+	border: 10px solid #FFFFFF;
+	padding: 0px 20px 20px 20px 20px;
+	margin: 10px 0 10px 0;
+	background: #2ECCFA;
+	}
+{background-color:990099 }
+html{ 
+  background-image:url('dancing-man-with-chicken-o.gif');
+  background-height: 100%;
+  background-width: 100%;
+}
